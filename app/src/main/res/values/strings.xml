@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fitness coach</string>
+    <string name="citation">Prends soin de toi</string>
+    <string name="commentaire">ton poids est idéal</string>
+    <string name="save">Save</string>
+    <string name="off">off</string>
+    <string name="on">on</string>
+</resources>

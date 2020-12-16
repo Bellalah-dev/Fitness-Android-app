@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632025316276",
+    "project_id": "fitness-coach-dc4f0",
+    "storage_bucket": "fitness-coach-dc4f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632025316276:android:04bb5a4bce47b5f76c50e1",
+        "android_client_info": {
+          "package_name": "com.example.fitnesscoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632025316276-c49fj73ga38nqdh8ugoh85rt0ssj8vi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitnesscoach",
+            "certificate_hash": "875eafc76c8d4630979f8b1d0a11de874e9b9174"
+          }
+        },
+        {
+          "client_id": "632025316276-b31bj0tsetkqpgl3mf65nnvctik8hlni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNEO9trI2YcJqh4gzbQ5mqdWCehWphFgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632025316276-b31bj0tsetkqpgl3mf65nnvctik8hlni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
